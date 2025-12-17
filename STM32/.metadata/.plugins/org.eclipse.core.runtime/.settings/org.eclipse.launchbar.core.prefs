@@ -1,0 +1,13 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+activeLaunchTarget=null\:---
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:led_Blinking_with_pattern.c Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:led_Blinking_with_pattern.c\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Switch-Based\ LED\ Sequence\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Switch-Based\ LED\ Sequence\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Toggle\ LED\ Using\ User\ Switch\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Toggle\ LED\ Using\ User\ Switch\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:led-by-switch\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:led-by-switch\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

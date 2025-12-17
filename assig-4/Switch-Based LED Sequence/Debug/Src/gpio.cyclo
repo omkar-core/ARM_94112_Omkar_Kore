@@ -1,0 +1,6 @@
+../Src/gpio.c:30:6:GPIO_Init	1
+../Src/gpio.c:42:9:Read_Switch	1
+../Src/gpio.c:46:6:Green_LED_On	1
+../Src/gpio.c:52:6:Blue_LED_On	1
+../Src/gpio.c:58:6:LEDs_Off	1
+../Src/gpio.c:63:6:Delay_ms	3
