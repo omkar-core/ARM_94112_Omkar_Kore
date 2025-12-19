@@ -1,0 +1,3 @@
+../Inc/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/ext_intr.c:14:6:extint_init	8	static
+../Src/ext_intr.c:48:6:EXTI0_IRQHandler	8	static
