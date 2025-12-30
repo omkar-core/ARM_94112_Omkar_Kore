@@ -1,0 +1,6 @@
+../Core/Src/mq2.c:27:17:MQ2_ReadADC	16	static
+../Core/Src/mq2.c:49:6:MQ2_Init	8	static
+../Core/Src/mq2.c:61:10:MQ2_Read	8	static
+../Core/Src/mq2.c:72:10:MQ2_ReadFiltered	24	static
+../Core/Src/mq2.c:104:9:MQ2_IsAboveThreshold	16	static
+../Core/Src/mq2.c:114:9:MQ2_IsWarning	16	static
