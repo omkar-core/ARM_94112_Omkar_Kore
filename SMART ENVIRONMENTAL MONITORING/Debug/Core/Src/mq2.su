@@ -1,0 +1,4 @@
+../Core/Src/mq2.c:10:6:MQ2_Init	8	static
+../Core/Src/mq2.c:15:10:MQ2_ReadRaw	16	static
+../Core/Src/mq2.c:25:10:MQ2_ReadAverage	24	static
+../Core/Src/mq2.c:36:6:MQ2_IsSmokeDetected	8	static

@@ -1,0 +1,11 @@
+../Core/Src/led.c:8:6:LED_Init	1
+../Core/Src/led.c:9:6:LED_Green_On	1
+../Core/Src/led.c:10:6:LED_Green_Off	1
+../Core/Src/led.c:11:6:LED_Orange_On	1
+../Core/Src/led.c:12:6:LED_Orange_Off	1
+../Core/Src/led.c:13:6:LED_Red_On	1
+../Core/Src/led.c:14:6:LED_Red_Off	1
+../Core/Src/led.c:15:6:LED_Blue_On	1
+../Core/Src/led.c:16:6:LED_Blue_Off	1
+../Core/Src/led.c:18:6:LED_All_On	1
+../Core/Src/led.c:23:6:LED_All_Off	1
